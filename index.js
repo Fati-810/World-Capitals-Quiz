@@ -12,15 +12,6 @@ const db = new pg.Client({
   port: process.env.DB_PORT,
 });
 
-
-/*const db = new pg.Client({
-  user: "postgres",
-  host: "localhost",
-  database: "world",
-  password: "123456789",
-  port: 5432,
-});*/
-
 const app = express();
 const port = 3000;
 
