@@ -13,11 +13,11 @@ An **interactive quiz web app** that tests users on capital cities around the wo
 
 ## Technical Overview: (Behind the Scenes)
 
-Frontend: HTML, CSS, JavaScript
+**Frontend:** HTML, CSS, JavaScript
 
-Backend: Node.js, Express.js
+**Backend:** Node.js, Express.js
 
-Database: PostgreSQL (hosted on Railway)
+**Database:** PostgreSQL (hosted on Railway)
 
 ## Preview:
 https://world-capitals-quiz-55r4.onrender.com
