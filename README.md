@@ -26,9 +26,7 @@ https://world-capitals-quiz-55r4.onrender.com
 If you'd like to see more of my work, connect with me through my portfolio:
 
 **Developer:** *Fatimah Ali*
-
 **Website:** https://fatimahdigitaledge.com
-
 **GitHub:** https://github.com/fati-810
 
 ## License:
